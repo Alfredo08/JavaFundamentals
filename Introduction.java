@@ -26,6 +26,10 @@ public class Introduction{
         word += " and programming";
         System.out.println( word );
         System.out.println( "age: " + age  );
+
+        int wholeNumber = (int)25.5;
+        System.out.println( "Casted number: " + wholeNumber );
+
     }
 }
 
